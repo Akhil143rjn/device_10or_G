@@ -69,6 +69,9 @@ persist.camera.isp.clock.optmz=0
 persist.camera.isp.debug=0
 persist.camera.sensor.debug=0
 persist.camera.stats.test=5
+persist.camera.CDS=off
+persist.camera.video.CDS=off
+persist.camera.HAL3.enabled=1
 
 # Cne
 persist.vendor.cne.feature=1
