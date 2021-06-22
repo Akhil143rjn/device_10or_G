@@ -4,4 +4,4 @@
 
 # DPM
 persist.vendor.dpm.feature=1
-persist.vendor.dpm.loglevel=0
+persist.vendor.dpm.loglevel=3
